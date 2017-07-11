@@ -11,3 +11,4 @@ f4 use rebase into master
 in f3
 in master
 in f5
+f6
